@@ -3,7 +3,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=%3C++Hello%2C+world!++%2F%3E)](https://git.io/typing-svg)
 
 I'm Sophie, a frontend developer, React lover, graduate of [Yandex.Praktikum](https://praktikum.yandex.ru/web/).
-
+<br>
 
 ### My skill set
 
@@ -24,13 +24,13 @@ I'm Sophie, a frontend developer, React lover, graduate of [Yandex.Praktikum](ht
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-f5f5f5?style=for-the-badge&logo=nginx&logoColor=009639" />
 </span>
 <br>
-<span>
+<p>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-f5f5f5?style=for-the-badge&logo=webpack&logoColor=8DD6F9" />
   <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-f5f5f5?style=for-the-badge&logo=gulp&logoColor=CF4647" />
   <img alt="git" src="https://img.shields.io/badge/-Git-f5f5f5?style=for-the-badge&logo=git&logoColor=F05032" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-f5f5f5?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-f5f5f5?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-</span>
+</p>
 
 <br>
 
