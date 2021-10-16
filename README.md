@@ -4,7 +4,6 @@
 
 I'm Sophie, a frontend developer, React lover, graduate of [Yandex.Praktikum](https://praktikum.yandex.ru/web/).
 
-<br>
 
 ### My skill set
 
@@ -33,15 +32,13 @@ I'm Sophie, a frontend developer, React lover, graduate of [Yandex.Praktikum](ht
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-f5f5f5?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </span>
 
-<br><br>
+<br>
 
 <!-- <img src="https://images.squarespace-cdn.com/content/v1/5ecd97cde98b902cd53ad716/1590792908456-K042R09XR93EEGOTGMNP/Gotcha_Bug_Run.gif?format=300w" align="right" style="width: 180px" /> -->
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sahvea&layout=compact&theme=graywhite)
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahvea&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=B8DA44&currStreakLabel=B8DA44)](https://git.io/streak-stats) -->
-
-<br>
 
 ### Some Links
 
