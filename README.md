@@ -1,4 +1,4 @@
-<img src="https://images.squarespace-cdn.com/content/v1/5ecd97cde98b902cd53ad716/1590715429933-3KOCCMPIFNSZVEZ6ERL8/Gotcha_Hi.gif?format=1000w" align="right" style="width: 150px" />
+<!-- <img src="https://images.squarespace-cdn.com/content/v1/5ecd97cde98b902cd53ad716/1590715429933-3KOCCMPIFNSZVEZ6ERL8/Gotcha_Hi.gif?format=1000w" align="right" style="width: 150px" /> -->
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=%3C++Hello%2C+world!++%2F%3E)](https://git.io/typing-svg)
 
