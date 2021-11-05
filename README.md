@@ -45,7 +45,7 @@ I'm Sophie, a frontend developer, React lover, graduate of [Yandex.Praktikum](ht
 <a href="https://t.me/sahvea" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/pimperneltook?r=nametag" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://www.kinopoisk.ru/user/2227418/go/" target="blank"><img align="center" src="https://yt3.ggpht.com/ytc/AKedOLQLhtzLJK3uYBvGSEADHyrtiuMwq4nsirB_STfc=s900-c-k-c0x00ffffff-no-rj" alt="kinopoisk" height="25" width="25" /></a>&nbsp;
-<a href="https://old.myshows.me/EmiNymph" target="blank"><img align="center" src="http://www.userlogos.org/files/logos/alterionisto/unnamed.png" alt="myshows" height="25" width="33" /></a>&nbsp;&nbsp;
+<!-- <a href="https://old.myshows.me/EmiNymph" target="blank"><img align="center" src="http://www.userlogos.org/files/logos/alterionisto/unnamed.png" alt="myshows" height="25" width="33" /></a>&nbsp;&nbsp; -->
 
 <br>
 <!-- <div align="center"> -->
