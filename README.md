@@ -34,20 +34,22 @@ I'm Sophie, a frontend developer, React lover, graduate of [Yandex.Praktikum](ht
 
 <br>
 
-<!-- <img src="https://images.squarespace-cdn.com/content/v1/5ecd97cde98b902cd53ad716/1590792908456-K042R09XR93EEGOTGMNP/Gotcha_Bug_Run.gif?format=300w" align="right" style="width: 180px" /> -->
-
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sahvea&layout=compact&theme=graywhite)
 
+[![wakatime](https://wakatime.com/badge/user/b5c7ce6c-3494-4300-a39b-cb93931f8283.svg)](https://wakatime.com/@b5c7ce6c-3494-4300-a39b-cb93931f8283) <sup>Since March 2021</sup>
+
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahvea&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=B8DA44&currStreakLabel=B8DA44)](https://git.io/streak-stats) -->
+
 
 ### Some Links
 
 <a href="https://t.me/sahvea" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/pimperneltook?r=nametag" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://www.kinopoisk.ru/user/2227418/go/" target="blank"><img align="center" src="https://yt3.ggpht.com/ytc/AKedOLQLhtzLJK3uYBvGSEADHyrtiuMwq4nsirB_STfc=s900-c-k-c0x00ffffff-no-rj" alt="kinopoisk" height="25" width="25" /></a>&nbsp;
-<!-- <a href="https://old.myshows.me/EmiNymph" target="blank"><img align="center" src="http://www.userlogos.org/files/logos/alterionisto/unnamed.png" alt="myshows" height="25" width="33" /></a>&nbsp;&nbsp; -->
+<a href="https://career.habr.com/sahvea" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1205171034938335232/Hor30ilG_400x400.jpg" alt="habr career" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.kinopoisk.ru/user/2227418/go/" target="blank"><img align="center" src="https://www.apkmirror.com/wp-content/uploads/2019/11/5dd266c9b6471.png" alt="kinopoisk" height="25" width="25" /></a>
+<a href="https://www.codewars.com/users/sahvea" target="blank"><img height="28" align="center" src="https://www.codewars.com/users/sahvea/badges/micro?theme=light" alt="codewars" /></a>
+
 
 <br>
-<!-- <div align="center"> -->
-  <img src="https://images.squarespace-cdn.com/content/v1/5ecd97cde98b902cd53ad716/1590793105196-KDH6X6V8XR28XB12SMNR/Gotcha_Work.gif?format=300w" align="center" style="width: 100px" />
-<!-- </div> -->
+
+<img src="https://images.squarespace-cdn.com/content/v1/5ecd97cde98b902cd53ad716/1590793105196-KDH6X6V8XR28XB12SMNR/Gotcha_Work.gif?format=300w" align="center" style="width: 100px" />
+
