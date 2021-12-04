@@ -9,7 +9,9 @@ I'm Sophie, a frontend developer, React lover, graduate of [Yandex.Praktikum](ht
 
 <span>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f5f5f5?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-f5f5f5?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img alt="React" src="https://img.shields.io/badge/-React-f5f5f5?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<!--   <img alt="React Native" src="https://img.shields.io/badge/-React Native-f5f5f5?style=for-the-badge&logo=react&logoColor=0088CC" /> -->
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-f5f5f5?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-f5f5f5?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-f5f5f5?style=for-the-badge&logo=sass&logoColor=CC6699" />
